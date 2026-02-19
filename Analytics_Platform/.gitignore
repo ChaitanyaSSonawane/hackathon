@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python bytecode/cache
+__pycache__/
+*.pyc
+
+# Local cache/data
+.cache/
+
+# Large data files (optional - usually kept local)
+data/*.csv
+
+# Temporary visualizations
+visualizations/*.html
